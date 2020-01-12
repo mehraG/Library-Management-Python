@@ -17,12 +17,10 @@ you have to add this yourself.**(You will understand ones you see the video)<br>
 Also set the **password to `mysql`.** Since, this is the password used in the code.
 <br>
 If you followed the video you should be able to run SQL Queries. Execute these Queries.
-```
-create database library;
-```
-```
-create table BookRecord (bno varchar(20), bname varchar(20), author varchar(20), price int, publisher varchar(20),qty int, d_o_purchase date);
-```
+
+- `create database library;`
+- `create table BookRecord (bno varchar(20), bname varchar(20), author varchar(20), price int, publisher varchar(20),qty int, d_o_purchase date);`
+
 Now, run LIBRARY MANAGEMENT.py file hopefully, you can now add and display books. 
 
 ---
