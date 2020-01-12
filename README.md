@@ -4,7 +4,7 @@
 Just fixed some errors. And made some tweaks_
 
 ## Prerequisite
-At the time of making this project _`mysql-python-connector`_ only support Python v3.7.x
+At the time of making this project _`mysql-python-connector`_ only support Python v3.7.x or lower
 - Python v3.7.6
 - MySQL Server v8.0.18 or above
 - MySQL Workbench v8.0.18 or above
