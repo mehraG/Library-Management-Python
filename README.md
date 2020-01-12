@@ -12,8 +12,8 @@ At the time of making this project _mysql-python-connector_ only support Python 
 
 ## Project Setup
 Go through [this](https://www.youtube.com/watch?v=u96rVINbAUI "How To Install MySQL (Server and Workbench)") 
-video. He has shown how to install MySQL Server and MySQL Workbench **but didn't install Connector/Python so 
-add this yourself.**(You will understand ones you see the video)<br>
+video. He has shown how to install MySQL Server and MySQL Workbench **but he didn't install Connector/Python so 
+you have to add this yourself.**(You will understand ones you see the video)<br>
 Also set the **password to `mysql`.** Since, this is the password used in the code.
 <br>
 If you followed the video you should be able to run SQL Queries. Execute these Queries.
